@@ -2,10 +2,10 @@
 
 Welcome to my GitHub space! I am an enthusiastic software developer passionate about full-stack development, machine learning, Java development, and solving complex problems through technology. Currently, I'm pursuing my **B.Tech in Electronics and Telecommunication Engineering** at IET, DAVV Indore, 
 where I focus on 
-    - building scalable web applications,
-    - developing machine-learning projects,
-    - refining my DSA skills, and
-    - contributing to open-source.  
+- building scalable web applications,
+- developing machine-learning projects,
+- refining my DSA skills, and
+- contributing to open-source.  
 
 ---
 
