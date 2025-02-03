@@ -65,10 +65,10 @@ Built with **Node.js, React, Docker, Redis, Kubernetes, Prometheus, Grafana, AWS
 
 ## 🎯 Goals for 2024  
 
-✔ Deepen expertise in **AI/ML**, focusing on model optimization and real-world applications  
-✔ Contribute to **impactful open-source AI projects** and research initiatives  
-✔ Build **scalable AI-powered full-stack applications**  
-✔ Gain proficiency in **cloud-native architectures for AI deployment**  
+☑️ Deepen expertise in **AI/ML**, focusing on model optimization and real-world applications  
+☑️ Contribute to **impactful open-source AI projects** and research initiatives  
+☑️ Build **scalable AI-powered full-stack applications**  
+☑️ Gain proficiency in **cloud-native architectures for AI deployment**  
 
 ---
 
