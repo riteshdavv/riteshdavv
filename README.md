@@ -55,7 +55,7 @@ Think of it as an **all-in-one business engine**, empowering agencies to sell to
 
 💡 Whether you're an agency looking to expand your offerings or an entrepreneur building the next big digital empire, Luma has you covered.  
 
-🔗 [GitHub Repo](#) | 🌐 Live Demo *(Coming Soon)* 
+🔗 [GitHub Repo](https://github.com/riteshdavv/luma) | 🌐 Live Demo *(Coming Soon)* 
 
 ---
 
