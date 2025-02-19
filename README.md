@@ -30,11 +30,11 @@ A gamified open-source contribution tracker that motivates developers to engage 
 Built with **Node.js, React, Docker, Redis, Kubernetes, Prometheus, Grafana, AWS, PostgreSQL**.
 
 🚀 **Planned Features & Goals:**  
-☑️ Achieve **90% accuracy** in fetching and categorizing contributions via GitHub/GitLab API integration  
-☑️ Ensure **<200ms response time** for leaderboard updates using Redis caching  
-☑️ Implement **real-time notifications** with a **98% success rate** via WebSockets  
-☑️ Maintain **99.9% uptime** through Dockerized Kubernetes deployment on AWS  
-☑️ Enhance user insights by **35%** with an interactive React dashboard and trend visualization  
+✅ Achieve **90% accuracy** in fetching and categorizing contributions via GitHub/GitLab API integration
+✅ Ensure **<200ms response time** for leaderboard updates using Redis caching
+✅ Implement **real-time notifications** with a **98% success rate** via WebSockets
+✅ Maintain **99.9% uptime** through Dockerized Kubernetes deployment on AWS
+✅ Enhance user insights by **35%** with an interactive React dashboard and trend visualization
 
 🔗 [GitHub Repo](https://github.com/riteshdavv/gitbattle) | 🔥 Live Demo *(Coming Soon)*  
 
