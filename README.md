@@ -26,7 +26,7 @@ I actively engage in
 ## 🚀 Projects  
 
 ### 1. GitBattle 🏆 - Gamified Open-Source Contribution Tracker *(In Progress)*  
-A platform being developed to **track and gamify open-source contributions** with real-time leaderboards, notifications, and insights. 
+A gamified open-source contribution tracker that motivates developers to engage with open-source projects by providing **real-time contribution tracking, leaderboards, badges, and insights**.
 Built with **Node.js, React, Docker, Redis, Kubernetes, Prometheus, Grafana, AWS, PostgreSQL**.
 
 🚀 **Planned Features & Goals:**  
