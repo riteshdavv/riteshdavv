@@ -39,6 +39,7 @@ Built with **Node.js, React, Docker, Redis, Kubernetes, Prometheus, Grafana, AWS
 🔗 [GitHub Repo](https://github.com/riteshdavv/gitbattle) | 🔥 Live Demo *(Coming Soon)*  
 
 
+
 ### ⚡ Luma - The Ultimate White-Label SaaS for Agencies *(In Progress)*  
 
 Luma is more than just a website builder—it's a **powerful, multi-vendor (B2B2B) white-labeled SaaS platform** designed to help agencies scale. With Luma, agency owners can **offer a fully branded CRM, website, and funnel-building suite** to their clients, complete with payment processing, analytics, and workflow automation. 
@@ -88,16 +89,6 @@ Think of it as an **all-in-one business engine**, empowering agencies to sell to
 ☑️ Contribute to **impactful open-source AI projects** and research initiatives  
 ☑️ Build **scalable AI-powered full-stack applications**  
 ☑️ Gain proficiency in **cloud-native architectures for AI deployment**  
-
----
-
-## 📊 GitHub Stats & Activity  
-
-![Ritesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riteshdavv&show_icons=true&theme=dark)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshdavv&layout=compact&theme=dark)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riteshdavv&theme=dark)  
 
 ---
 
