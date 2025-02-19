@@ -25,7 +25,7 @@ I actively engage in
 
 ## 🚀 Projects  
 
-### 🏆 GitBattle - Gamified Open-Source Contribution Tracker *(In Progress)*  
+### 1. GitBattle 🏆 - Gamified Open-Source Contribution Tracker *(In Progress)*  
 A platform being developed to **track and gamify open-source contributions** with real-time leaderboards, notifications, and insights. 
 Built with **Node.js, React, Docker, Redis, Kubernetes, Prometheus, Grafana, AWS, PostgreSQL**.
 
@@ -39,8 +39,7 @@ Built with **Node.js, React, Docker, Redis, Kubernetes, Prometheus, Grafana, AWS
 🔗 [GitHub Repo](https://github.com/riteshdavv/gitbattle) | 🔥 Live Demo *(Coming Soon)*  
 
 
-
-### ⚡ Luma - The Ultimate White-Label SaaS for Agencies *(In Progress)*  
+### 2. Luma ⚡ - The Ultimate White-Label SaaS for Agencies *(In Progress)*  
 
 Luma is more than just a website builder—it's a **powerful, multi-vendor (B2B2B) white-labeled SaaS platform** designed to help agencies scale. With Luma, agency owners can **offer a fully branded CRM, website, and funnel-building suite** to their clients, complete with payment processing, analytics, and workflow automation. 
 
