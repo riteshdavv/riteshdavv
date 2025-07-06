@@ -23,10 +23,10 @@ I actively engage in
 - **Frontend:** React.js, Next.js, Tailwind CSS 
 - **Backend:** Node.js, Express.js, MongoDB, PostgreSQL
 - **Cloud & DevOps:** Docker, AWS
-- **AI/ML:** TensorFlow, NumPy OpenCV
+- **AI/ML:** TensorFlow, NumPy
 - **Version Control & Tools:** Git, GitHub, Vercel
 
-📌 *Currently exploring advanced AI/ML concepts, including deep learning architectures, model optimization, and deploying scalable AI-driven applications.*  
+📌 Currently exploring advanced AI/ML concepts, including deep learning architectures, model optimization, and deploying scalable AI-driven applications.
 
 ---
 
@@ -49,8 +49,6 @@ The project aimed to develop a robust, secure, and extensible Drupal module that
 - ✅ Enabled **seamless login for over 100 users** by implementing secure **OAuth 2.0 authentication** between Appwrite and Drupal, integrating **GitHub and Google** flows to simplify cross-platform onboarding.
 - ✅ Improved **media management efficiency by 40%** by integrating **Appwrite’s storage bucket API** with Drupal’s media system, allowing **real-time upload, retrieval**, and scoped access control of user-generated files.
 - ✅ Reduced **data retrieval latency by 50%** by connecting **Appwrite’s document database** with Drupal, enabling **efficient storage and querying of structured content** and improving developer productivity.
-- ✅ **Maintain 99.9% uptime** through **Dockerized Kubernetes deployment on AWS**  
-- ✅ **Enhance user insights by 35%** with an **interactive React dashboard and trend visualization**  
 
 🔗 [GitHub Repo](https://github.com/riteshdavv/drupal-appwrite) | 🔥 [Project Details](https://summerofcode.withgoogle.com/programs/2025/projects/5QrB2MPf)
 
