@@ -1,10 +1,8 @@
 # 🚀 Ritesh Singh | GSoC'25 Contributor 
-<p>
-  <b>Full Stack Developer | GSoC'25 Contributor @ Appwrite | Open Source Enthusiast</b>
-</p>
+### Full Stack Developer | GSoC'25 Contributor at Drupal | Open Source Enthusiast
 
 ---
-# 🪁 **About Me**
+## 🪁 **About Me**
 
 - I’m a Electronics and Telecommunication undergraduate at IET, DAVV Indore.
 - Currently working on **Appwrite + Drupal Integration** as part of **Google Summer of Code 2025**.
