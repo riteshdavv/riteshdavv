@@ -1,6 +1,15 @@
-# 🚀 Ritesh Singh | Software Developer  
+# 🚀 Ritesh Singh | GSoC'25 Contributor 
+<p>
+  <b>Full Stack Developer | GSoC'25 Contributor @ Appwrite | Open Source Enthusiast</b>
+</p>
 
-Welcome to my GitHub space! I am an enthusiastic software developer passionate about full-stack development, machine learning, Java development, and solving complex problems through technology. Currently, I'm pursuing my **B.Tech in Electronics and Telecommunication Engineering** at IET, DAVV Indore.
+---
+# 🪁 **About Me**
+
+- I’m a Electronics and Telecommunication undergraduate at IET, DAVV Indore.
+- Currently working on **Appwrite + Drupal Integration** as part of **Google Summer of Code 2025**.
+- I’m focused on **Full Stack Web Development**, **System Design**, and **AI Productivity Tools**.
+- I build modular, scalable solutions with clean architecture and developer-first UX.
 
 I actively engage in 
 - building scalable web applications,
@@ -23,41 +32,32 @@ I actively engage in
 
 ---
 
+## 📫 Let’s Connect
+
+<a href="https://linkedin.com/in/riteshdavv/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/riteshdavv"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white"></a>
+<a href="mailto:ritesh.davv@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
+
+---
+
 ## 🚀 Projects  
 
-### 1. GitBattle 🏆 - Gamified Open-Source Contribution Tracker *(In Progress)*  
-A gamified open-source contribution tracker that motivates developers to engage with open-source projects by providing **real-time contribution tracking, leaderboards, badges, and insights**.
-Built with **Node.js, React, Docker, Redis, Kubernetes, Prometheus, Grafana, AWS, PostgreSQL**.
+### 🏆 Google Summer of Code (GSOC) 2025, Drupal Association  
+#### Appwrite Integration Module - Secure BaaS Integration for Modern Web Workflows
 
-🚀 **Planned Features & Goals:**  
-- ✅ **Achieve 90% accuracy** in fetching and categorizing contributions via **GitHub/GitLab API integration**  
-- ✅ **Ensure <200ms response time** for leaderboard updates using **Redis caching**  
-- ✅ **Implement real-time notifications** with a **98% success rate via WebSockets**  
+The project aimed to develop a robust, secure, and extensible Drupal module that integrates with Appwrite, **an open-source backend-as-a-service (BaaS)**. By bridging these platforms, the module will empower developers to build dynamic, serverless applications while leveraging Drupal’s powerful CMS capabilities.
+
+🚀 **Features & Goals:**  
+- ✅ Enabled **seamless login for over 100 users** by implementing secure **OAuth 2.0 authentication** between Appwrite and Drupal, integrating **GitHub and Google** flows to simplify cross-platform onboarding.
+- ✅ Improved **media management efficiency by 40%** by integrating **Appwrite’s storage bucket API** with Drupal’s media system, allowing **real-time upload, retrieval**, and scoped access control of user-generated files.
+- ✅ Reduced **data retrieval latency by 50%** by connecting **Appwrite’s document database** with Drupal, enabling **efficient storage and querying of structured content** and improving developer productivity.
 - ✅ **Maintain 99.9% uptime** through **Dockerized Kubernetes deployment on AWS**  
 - ✅ **Enhance user insights by 35%** with an **interactive React dashboard and trend visualization**  
 
-🔗 [GitHub Repo](https://github.com/riteshdavv/gitbattle) | 🔥 Live Demo *(Coming Soon)*  
-
-
-### 2. Luma ⚡ - The Ultimate White-Label SaaS for Agencies *(In Progress)*  
-
-Luma is more than just a website builder—it's a **powerful, multi-vendor (B2B2B) white-labeled SaaS platform** designed to help agencies scale. With Luma, agency owners can **offer a fully branded CRM, website, and funnel-building suite** to their clients, complete with payment processing, analytics, and workflow automation. 
-
-Think of it as an **all-in-one business engine**, empowering agencies to sell top-tier digital solutions without building from scratch.  
-
-🚀 **What Makes Luma Stand Out?**  
-- ✅ **Whitelabel Everything** – Agencies can fully customize the platform and sell it under their own brand  
-- ✅ **Drag-and-Drop Funnel & Website Builder** – No coding required, just creativity  
-- ✅ **Multi-Tenant Subaccounts** – Clients get their own dedicated workspaces  
-- ✅ **Seamless Stripe Integration** – Monetize instantly with built-in payment solutions  
-- ✅ **Real-Time Insights & Metrics** – Track sales, traffic, and performance effortlessly  
-- ✅ **Kanban Ticketing System** – Manage tasks, support requests, and projects in an intuitive board  
-
-💡 Whether you're an agency looking to expand your offerings or an entrepreneur building the next big digital empire, Luma has you covered.  
-
-🔗 [GitHub Repo](https://github.com/riteshdavv/luma) | 🌐 Live Demo *(Coming Soon)* 
+🔗 [GitHub Repo](https://github.com/riteshdavv/drupal-appwrite) | 🔥 [Project Details](https://summerofcode.withgoogle.com/programs/2025/projects/5QrB2MPf)
 
 ---
+
 
 ## 📚 Learning & Research Interests  
 
